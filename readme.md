@@ -1,7 +1,7 @@
 # Kristen Gilmore 
 
 ## 2022 North Carolina Percent Adult Obedisity Prevelance in realtion to State Park Locations
-###The Metrics
+### The Metrics
 The Adult Obesity Prevelance for North Carolina is calculated from The County Health Rankings, a collaboration between the Robert Wood Johnson Foundation and the University of Wisconsin Population Health Institute, measuring the health of nearly all counties in the nation and rank them within states using using county-level measures from a variety of national and state data sources provided by ArcGIS Online
 
 ### Recommended for 
